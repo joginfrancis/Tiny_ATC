@@ -26,19 +26,19 @@ My initial approach was to use a couple of magnets to attach the collet to the h
 
 [https://a360.co/3F1xyWi](https://a360.co/3F1xyWi)
 
-![magnetic.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/magnetic.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/magnetic.jpg" width=50% height=50%>
 
 I also had few iterations of the same concept
 
-![magnet2.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/magnet2.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/magnet2.jpg" width=50% height=50%>
 
-![magnet1.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/magnet1.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/magnet1.jpg" width=50% height=50%>
 
 [https://a360.co/3obpwn2](https://a360.co/3obpwn2)
 
-![Untitled](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/Untitled.png)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/Untitled.png" width=50% height=50%>
 
-![explode.png](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/explode.png)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/explode.png" width=50% height=50%>
 
 ### Collet Designs
 
@@ -46,54 +46,58 @@ I also had few iterations of the same concept
 
 The teethes on the holder and spindle will transfer the rotational motion from the spindle to the holder .
 
-![Untitled](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/Untitled%201.png)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/Untitled%201.png" width=50% height=50%>
 
-![Untitled](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/Untitled%202.png)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/Untitled%202.png" width=50% height=50%>
 
 At the top of the collet holder a neodymium magnet is embedded it will get attracted towards another magnet in the spindle.  the magnets will keep the holder attached to the spindle.
 
-![Screenshot (145).png](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/Screenshot_(145).png)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/Screenshot_(145).png" width=50% height=50%>
 
-![IMG_20211120_120821.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211120_120821.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211120_120821.jpg" width=50% height=50%>
 
 ### Spring Collet
 
 I tried a different approaches to avoid the need of an extra holder . 
 
-![clicklock.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/clicklock.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/clicklock.jpg" width=50% height=50%>
 
 The bit could be directly attached to the mechanism with a split collet and spring .
 
-![clicklock2.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/clicklock2.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/clicklock2.jpg" width=50% height=50%>
 
 ### Spring Collet Version 2
 
-![IMG_20211109_111817.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_111817.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_111817.jpg" width=50% height=50%>
 
-![IMG_20211109_111953.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_111953.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_111953.jpg" width=50% height=50%>
 
-![IMG_20211109_112042.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_112042.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_112042.jpg" width=50% height=50%>
 
-![IMG_20211109_112036_1.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_112036_1.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_112036_1.jpg" width=50% height=50%>
 
-![IMG_20211109_112033.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_112033.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_112033.jpg" width=50% height=50%>
 
-![test1.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/test1.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/test1.jpg" width=50% height=50%>
 
-![IMG_20211109_111700.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_111700.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_111700.jpg" width=50% height=50%>
 
-![IMG_20211109_111652.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_111652.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211109_111652.jpg" width=50% height=50%>
 
-![IMG_20211112_160806_1.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211112_160806_1.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211112_160806_1.jpg" width=50% height=50%>
 
-![IMG_20211117_161115_1.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_161115_1.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_161115_1.jpg" width=50% height=50%>
 
-![IMG_20211117_151430.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_151430.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_151430.jpg" width=50% height=50%>
 
-![IMG_20211117_151335.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_151335.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_151335.jpg" width=50% height=50%>
 
-![IMG_20211117_154155.jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_154155.jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_154155.jpg" width=50% height=50%>
 
-![IMG_20211117_160717_1 (2).jpg](Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_160717_1_(2).jpg)
+<img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_160717_1_(2).jpg" width=50% height=50%>
 
 [https://www.youtube.com/watch?v=oYFQRWzRnRY](https://www.youtube.com/watch?v=oYFQRWzRnRY)
+
+
+Regx -(!\[)(.*)(\]\()(.*)(\)) 
+replace -<img src="$4" width=50% height=50%>
