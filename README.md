@@ -96,5 +96,9 @@ The bit could be directly attached to the mechanism with a split collet and spri
 
 <img src="Tiny%20ATC%205e7eb087ea0043a2acdad37e488a097b/IMG_20211117_160717_1_(2).jpg" style="width:50%;display:block;margin-left:auto;margin-right:auto;">
 
+### Final Design
+[https://a360.co/321XO5l](https://a360.co/321XO5l)
+
+### Video
 [https://www.youtube.com/watch?v=oYFQRWzRnRY](https://www.youtube.com/watch?v=oYFQRWzRnRY)
 
